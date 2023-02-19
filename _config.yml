@@ -1,4 +1,4 @@
 timezone: Europe/Helsinki
 title: Blog - sitruskettu.dev
 description: Random stuff about tech, daily life and foxes
-excerpt_separator: "<!--more-->"
+excerpt_separator: "\n\n\n"
