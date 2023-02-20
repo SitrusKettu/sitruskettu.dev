@@ -2,7 +2,7 @@
 layout: home
 ---
 
-You can also find the source code to this blog on my [GitHub](https://github.com/SitrusKettu/sitruskettu.dev).
+You can find the source code to this blog on my [GitHub](https://github.com/SitrusKettu/sitruskettu.dev).
 
 <ul>
   {% for post in site.posts %}
