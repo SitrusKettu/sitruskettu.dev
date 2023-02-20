@@ -1,6 +1,5 @@
 ---
-layout: post
-title: "Index"
+layout: home
 ---
 
 <ul>
